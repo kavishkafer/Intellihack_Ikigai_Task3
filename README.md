@@ -1,1 +1,4 @@
-# Intellihack_Ikigai_Task3
+```
+python C:/Users/Tharindu/OneDrive/Desktop/Intellihack/Chatbot/QASystem/ingestion.py
+
+```
